@@ -28,7 +28,22 @@ AI & Computer Vision
 YOLO
 Image and video analysis
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/Page d’accueil de l’application .jpg)
+
+### AI Alert Analysis
+![AI Analysis](screenshots/Détails de l’analyse IA d’une alerte.jpg)
+
+### System Dashboard
+![Dashboard](screenshots/Interface d’analyse et statistiques du système.jpg)
+
+### Report Map Visualization
+![Map](screenshots/Visualisation de la localisation d’un rapport sur la carte.jpg)
+
 Project Objectives
+
 Improve maritime border monitoring
 Facilitate communication between citizens and authorities
 Detect suspicious activities and risks using AI
@@ -48,7 +63,6 @@ Manage users and reports
 Visualize reports on dashboards and maps
 
 Architecture
-
 The project follows a full-stack architecture combining:
 
 React frontend
@@ -57,6 +71,7 @@ PostgreSQL database
 AI-based object detection models
 
 Future Improvements
+
 Real-time camera streaming
 Advanced AI detection models
 Mobile application support
